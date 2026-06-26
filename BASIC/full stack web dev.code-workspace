@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../full stack web dev"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "C++DSA"
+	}
+}
